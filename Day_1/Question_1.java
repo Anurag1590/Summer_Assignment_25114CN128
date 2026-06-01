@@ -1,3 +1,4 @@
+// JAVA code to print sum of numbers uptp a given number
 import java.util.*;
 public class Question_1 {
     public static  void main(String[] args)

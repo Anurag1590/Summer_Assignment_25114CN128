@@ -1,3 +1,4 @@
+// Code to print table of a given number
 import java.util.*;
 public class Question_2 {
  public static void main(String [] args)
