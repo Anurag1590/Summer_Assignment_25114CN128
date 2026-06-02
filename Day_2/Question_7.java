@@ -1,3 +1,4 @@
+// Code to calculate the product of digits of a given number
 import java.util.*;
 public class Question_7 {
     public static void main(String[] args)

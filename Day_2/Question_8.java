@@ -1,5 +1,5 @@
+//Code to check whether a given number is palindrome or not
 import java.util.*;
-
 public class Question_8 {
      public static void main(String[] args )
     {

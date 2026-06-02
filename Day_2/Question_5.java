@@ -1,3 +1,4 @@
+// Code to calculate the sum of digits of a given number
 import java.util.*;
 public class Question_5 {
     public static void main(String[] args)
