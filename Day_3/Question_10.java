@@ -1,4 +1,4 @@
- //Code to print the prime numbers in a given range
+ //Code to print the prime numbers in a given range.
  import java.util.*;
 public class Question_10 {
     public static void main(String[] args)

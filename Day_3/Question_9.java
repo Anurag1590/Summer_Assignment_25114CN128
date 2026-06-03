@@ -1,4 +1,4 @@
-//code to check whether a given number is prime or not
+//code to check whether a given number is prime or not.
 import java.util.*;
  public class Question_9
  {

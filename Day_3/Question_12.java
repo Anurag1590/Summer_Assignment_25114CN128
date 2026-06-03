@@ -11,8 +11,8 @@ public class Question_12 {
         int n2;
         System.out.print("Enter second number : ");
         n2 = Sc.nextInt();
-        int max = Math.max(n1, n2);
-        int lcm = max;
+        int maximum = Math.max(n1, n2);
+        int lcm = maximum;
 
         while (true) {
             if (lcm % n1 == 0 && lcm % n2 == 0) {
